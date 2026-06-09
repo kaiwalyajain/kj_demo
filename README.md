@@ -1,3 +1,4 @@
 # kj_demo
 my first git hub repository
-Auther - Kaiwalya Jain
+<br>
+Author - Kaiwalya Jain
